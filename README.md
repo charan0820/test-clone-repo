@@ -1,5 +1,14 @@
-# test-clone-repo
-# Learning github workflows
-# Added feature branch content
-# feature 2 branch
-# feature 3 branch
+# GitHub Learning
+
+Learning Git and GitHub workflows.
+
+## Topics Practiced
+- Commits
+- Branching
+- Pull Requests
+- Git Ignore
+- Cloning
+
+## Languages
+- Python
+- C++
